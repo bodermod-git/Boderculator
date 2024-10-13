@@ -1,6 +1,11 @@
 QT += widgets
 
-TARGET = main
+TARGET = Boderculator
 TEMPLATE = app
 
-SOURCES += main.cpp
+SOURCES += main.cpp \
+           GraphingCalculator.cpp \
+           NumericalCalculator.cpp
+
+HEADERS += GraphingCalculator.h \
+           NumericalCalculator.h
