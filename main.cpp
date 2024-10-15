@@ -5,8 +5,8 @@
 #include <QTabWidget>
 #include <QHBoxLayout>
 
-#include <NumericalCalculator.h>
-#include <GraphingCalculator.h>
+#include "NumericalCalculator.h"
+#include "GraphingCalculator.h"
 
 int main(int argc, char **argv)
 {

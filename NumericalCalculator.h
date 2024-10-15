@@ -5,7 +5,6 @@
 #include <QHBoxLayout>
 
 class NumericalCalculator : public QWidget {
-    
 public:
     NumericalCalculator(QWidget *parent = nullptr);
 

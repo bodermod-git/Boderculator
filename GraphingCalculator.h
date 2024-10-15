@@ -5,7 +5,6 @@
 #include <QHBoxLayout>
 
 class GraphingCalculator : public QWidget {
-
 public:
     GraphingCalculator(QWidget *parent = nullptr);
     
